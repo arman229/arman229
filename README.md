@@ -20,7 +20,7 @@ Here are some highlights of my projects:
 
 For a complete list of my projects, please visit the [Projects](./projects) section.
 ### Skills
-#### Programming Languages
+### Programming Languages
 <div style="display: flex; align-items: center;">
   <span style="font-weight: bold; margin-right: 8px;">JavaScript</span>
   <img src="./skills/javascript.svg" alt="JavaScript Icon" style="width: 20px; height: 20px;">
@@ -36,7 +36,7 @@ For a complete list of my projects, please visit the [Projects](./projects) sect
   <img src="./skills/typescript.svg" alt="TypeScript Icon" style="width: 20px; height: 20px;">
 </div>
 
-#### Frontend Technologies
+### Frontend Technologies
 <div style="display: flex; align-items: center;">
   <span style="font-weight: bold; margin-right: 8px;">HTML</span>
   <img src="./skills/html.svg" alt="HTML Icon" style="width: 20px; height: 20px;">
@@ -72,7 +72,7 @@ For a complete list of my projects, please visit the [Projects](./projects) sect
   <img src="./skills/materialui.svg" alt="Material UI Icon" style="width: 20px; height: 20px;">
 </div>
 
-#### Backend Technologies
+### Backend Technologies
 <div style="display: flex; align-items: center;">
   <span style="font-weight: bold; margin-right: 8px;">Node.js</span>
   <img src="./skills/Nodejs.svg" alt="Node.js Icon" style="width: 20px; height: 20px;">
@@ -83,10 +83,13 @@ For a complete list of my projects, please visit the [Projects](./projects) sect
   <img src="./skills/fastapi.svg" alt="FastApi Icon" style="width: 20px; height: 20px;">
 </div>
 
-#### Databases
-- **PostgreSQL**
+### Databases
+<div style="display: flex; align-items: center;">
+  <span style="font-weight: bold; margin-right: 8px;">PostgreSQL</span>
+   
+</div>
 
-#### Tools
+### Tools
 <div style="display: flex; align-items: center;">
   <span style="font-weight: bold; margin-right: 8px;">Git</span>
   <img src="./skills/git.svg" alt="Git Icon" style="width: 20px; height: 20px;">
@@ -120,12 +123,10 @@ In addition to software development, I am also interested in:
 - **Email**: [armanashraf015@gmail.com](mailto:armanashraf015@gmail.com)
 - **LinkedIn**: [Arman Ashraf](https://www.linkedin.com/in/arman-ashraf-427951219/)
 - **GitHub**: [arman229](https://github.com/arman229)
-- **Portfolio**: [Your Portfolio Website](https://www.yourportfoliosite.com)
+- **Portfolio**: [portfolio](https://www.yourportfoliosite.com)
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, and discussions.
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
+ 
 
 
