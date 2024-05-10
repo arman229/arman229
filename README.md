@@ -20,89 +20,22 @@ Here are some highlights of my projects:
 
 For a complete list of my projects, please visit the [Projects](./projects) section.
 ### Skills
-### Programming Languages
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">JavaScript</span>
-  <img src="./skills/javascript.svg" alt="JavaScript Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Python</span>
-  <img src="./skills/python.svg" alt="Python Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">TypeScript</span>
-  <img src="./skills/typescript.svg" alt="TypeScript Icon" style="width: 20px; height: 20px;">
-</div>
-
-### Frontend Technologies
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">HTML</span>
-  <img src="./skills/html.svg" alt="HTML Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">CSS</span>
-  <img src="./skills/css.svg" alt="CSS Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">React</span>
-  <img src="./skills/react.svg" alt="React Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Next.js</span>
-  <img src="./skills/nextJS.svg" alt="Next.js Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Bootstrap</span>
-  <img src="./skills/bootstrap.svg" alt="Bootstrap Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Tailwind CSS</span>
-  <img src="./skills/tailwind.svg" alt="Tailwind CSS Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Material UI</span>
-  <img src="./skills/materialui.svg" alt="Material UI Icon" style="width: 20px; height: 20px;">
-</div>
-
-### Backend Technologies
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Node.js</span>
-  <img src="./skills/Nodejs.svg" alt="Node.js Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">FastApi</span>
-  <img src="./skills/fastapi.svg" alt="FastApi Icon" style="width: 20px; height: 20px;">
-</div>
-
-### Databases
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">PostgreSQL</span>
-   
-</div>
-
-### Tools
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Git</span>
-  <img src="./skills/git.svg" alt="Git Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Docker</span>
-  <img src="./skills/docker.svg" alt="Docker Icon" style="width: 20px; height: 20px;">
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="font-weight: bold; margin-right: 8px;">Markdown</span>
-  <img src="./skills/markdown.svg" alt="Markdown Icon" style="width: 20px; height: 20px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap:15px; margin-bottom:20px">
+  <img src="./skills/javascript.svg" alt="JavaScript Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/python.svg" alt="Python Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/typescript.svg" alt="TypeScript Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/html.svg" alt="HTML Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/css.svg" alt="CSS Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/react.svg" alt="React Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/nextJS.svg" alt="Next.js Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/bootstrap.svg" alt="Bootstrap Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/tailwind.svg" alt="Tailwind CSS Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/materialui.svg" alt="Material UI Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/Nodejs.svg" alt="Node.js Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/fastapi.svg" alt="FastApi Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/git.svg" alt="Git Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/docker.svg" alt="Docker Icon" style="width: 70px; height: 50px; margin-right: 8px;">
+  <img src="./skills/markdown.svg" alt="Markdown Icon" style="width: 70px; height: 50px; margin-right: 8px;">
 </div>
 
 For a detailed overview of my skills, please visit the [Skills](./skills) section.
@@ -126,7 +59,4 @@ In addition to software development, I am also interested in:
 - **Portfolio**: [portfolio](https://www.yourportfoliosite.com)
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, and discussions.
-
  
-
-
