@@ -12,15 +12,16 @@ I am a dedicated and detail-oriented software developer with a strong foundation
 
 Here are some highlights of my projects:
 
-- **[Project 1](https://weatherinfo24.netlify.app/)**: A compilation of my weather web app projects exemplifying innovation and skill..
-- **[Project 2](https://my-shopping-website-assignment.vercel.app/)**: Intuitive and visually appealing frontend for your eCommerce store..
+
+- **[Project 1](https://my-shopping-website-assignment.vercel.app/)**: Intuitive and visually appealing frontend for your eCommerce store..
+- **[Project 2](https://weatherinfo24.netlify.app/)**: A compilation of my weather web app projects exemplifying innovation and skill..
 - **[Project 3](https://piaicwebtodo.vercel.app/)**:A collection of my web design projects showcasing creativity and expertise..
--  **[Project 4](https://bmicalculator-arman.netlify.app/)**:A compilation of my BMI calculator projects exemplifying technical prowess..
+- **[Project 4](https://bmicalculator-arman.netlify.app/)**:A compilation of my BMI calculator projects exemplifying technical prowess..
 
 
 For a complete list of my projects, please visit the [Projects](./projects) section.
 ### Skills
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap:15px; margin-bottom:20px">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap:25px; margin-bottom:20px, ">
   <img src="./skills/javascript.svg" alt="JavaScript Icon" style="width: 70px; height: 50px; margin-right: 8px;">
   <img src="./skills/python.svg" alt="Python Icon" style="width: 70px; height: 50px; margin-right: 8px;">
   <img src="./skills/typescript.svg" alt="TypeScript Icon" style="width: 70px; height: 50px; margin-right: 8px;">
@@ -56,7 +57,8 @@ In addition to software development, I am also interested in:
 - **Email**: [armanashraf015@gmail.com](mailto:armanashraf015@gmail.com)
 - **LinkedIn**: [Arman Ashraf](https://www.linkedin.com/in/arman-ashraf-427951219/)
 - **GitHub**: [arman229](https://github.com/arman229)
-- **Portfolio**: [portfolio](https://www.yourportfoliosite.com)
+- **Portfolio**: [portfolio](https://armanashrafportfolio.vercel.app/)
+- **CV**: <a href="./mycv/arman_cv.pdf" download>Download CV</a>
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, and discussions.
  
