@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Arman Ashraf, a passionate software developer 
 
 ## About Me
 
-I am a dedicated and detail-oriented software developer with a strong foundation in computer science and programming principles. My goal is to leverage my skills and experience to create high-quality software solutions that solve real-world problems and deliver value to users.
-
+I am a dedicated and detail-oriented software developer with a strong foundation in Mathematics and programming principles. My goal is to leverage my skills and experience to create high-quality software solutions that solve real-world problems and deliver value to users.
+ 
 ## Portfolio
 
 ### Projects
@@ -19,7 +19,7 @@ Here are some highlights of my projects:
 - **[Project 4](https://bmicalculator-arman.netlify.app/)**:A compilation of my BMI calculator projects exemplifying technical prowess..
 
 
-For a complete list of my projects, please visit the [Projects](./projects) section.
+ 
 ### Skills
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap:25px; margin-bottom:20px, ">
   <img src="./skills/javascript.svg" alt="JavaScript Icon" style="width: 70px; height: 50px; margin-right: 8px;">
@@ -39,7 +39,7 @@ For a complete list of my projects, please visit the [Projects](./projects) sect
   <img src="./skills/markdown.svg" alt="Markdown Icon" style="width: 70px; height: 50px; margin-right: 8px;">
 </div>
 
-For a detailed overview of my skills, please visit the [Skills](./skills) section.
+ 
 
 
 
@@ -58,7 +58,7 @@ In addition to software development, I am also interested in:
 - **LinkedIn**: [Arman Ashraf](https://www.linkedin.com/in/arman-ashraf-427951219/)
 - **GitHub**: [arman229](https://github.com/arman229)
 - **Portfolio**: [portfolio](https://armanashrafportfolio.vercel.app/)
-- **CV**: <a href="./mycv/arman_cv.pdf" download>Download CV</a>
+- **CV**: <a href="./mycv/arman_cv.pdf" download>Get Resume</a>
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, and discussions.
  
