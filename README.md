@@ -60,7 +60,7 @@ A collection of weather web app projects showcasing creativity and technical ski
 💼 **LinkedIn:** [Arman Ashraf](https://www.linkedin.com/in/arman-agentic-ai/)  
 💻 **GitHub:** [arman229](https://github.com/arman229)  
 🌐 **Portfolio:** [Visit Portfolio](https://armanashrafportfolio.vercel.app/)  
-📄 **Resume:** [Download PDF](./mycv/arman_cv.pdf)  
+📄 **Resume:** [Download PDF](arman_updated_cv.pdf)  
 
 ---
 
