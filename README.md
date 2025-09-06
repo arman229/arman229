@@ -31,6 +31,17 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 **Tech:** Python, FastAPI, OpenAI Agents SDK, Docker, TTS, MoviePy, ffmpeg, Next.js  
 
 ---
+ 
+### **[AI PhotoCraft – AI-Powered Photo Editing Companion](https://aiphotocraft.vercel.app/)**  
+
+🔹 AI PhotoCraft isn’t just another photo editing tool — it’s your intelligent assistant for creating professional, creative, and personalized images with the power of artificial intelligence.<br>
+📸 Upload any photo — portrait, selfie, or professional shot.<br>
+🎨 Enhance details, retouch, or experiment with hairstyles, makeup, clothing, and accessories.<br>
+🌆 Instantly transform backgrounds — from realistic office scenes to fun creative requests like “add a pirate hat.” <br>
+⚡ Apply preset styles for a quick makeover — business, traditional, or casual vibes.<br>
+👀 See instant before-and-after previews, keeping you fully in control.<br>
+
+---
 
 ### **[E-Commerce Frontend](https://my-shopping-website-assignment.vercel.app/)**  
 A visually appealing, responsive eCommerce frontend with intuitive UI/UX.  
@@ -49,8 +60,10 @@ A collection of weather web app projects showcasing creativity and technical ski
 | **Languages**      | Python |
 | **Frameworks**     | FastAPI, Next.js, React, TailwindCSS |
 | **AI & ML**        | OpenAI Agents SDK, RAG, CLIP, Pinecone, TTS, AI Image Generation |
-| **Tools**          | Docker, Git, SQLModel, Pydantic |
-| **Other**          | Asynchronous Architectures, API Design, CI/CD |
+| **Tools**          | Docker, Git|
+| **Databases**      | PostgreSQL, SQLModel,  Pydantic |
+| **Other**          | Asynchronous Architectures,Prompt Engineering, API Design, CI/CD |
+ 
 
 ---
 
@@ -60,7 +73,7 @@ A collection of weather web app projects showcasing creativity and technical ski
 💼 **LinkedIn:** [Arman Ashraf](https://www.linkedin.com/in/arman-agentic-ai/)  
 💻 **GitHub:** [arman229](https://github.com/arman229)  
 🌐 **Portfolio:** [Visit Portfolio](https://armanashrafportfolio.vercel.app/)  
-📄 **Resume:** [Download PDF](arman_updated_cv.pdf)  
+📄 **Resume:** [Download PDF](https://raw.githubusercontent.com/arman229/arman229/master/armancv.pdf)  
 
 ---
 
