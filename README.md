@@ -1,6 +1,6 @@
 # 🚀 Arman Ashraf
 
-### Full-Stack Developer| Backend AI Engineer | Agentic AI Specialist | Autonomous Systems Architect
+### Full-Stack Developer | Backend AI Engineer | Agentic AI Specialist | Autonomous Systems Architect
 
 ---
 
@@ -22,50 +22,40 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 🔹 Built secure authentication & authorization workflows.  
 🔹 Integrated **AI Chatbot** with RAG + CLIP & Pinecone visual search.  
 🔹 CI/CD pipeline with Docker, deployed to **Vercel** & **Hugging Face Spaces**.  
-**Tech:** FastAPI, Python, Next.js, Tailwind, Docker, CLIP, Pinecone, SQLModel
+**Tech Stack:** FastAPI, Python, Next.js, Tailwind, Docker, CLIP, Pinecone, SQLModel
 
 ---
 
 ### **[StyleMatch — AI Hairstyle Checker](https://armanstylematch.vercel.app/)**
 
-🔹 Enables users to **virtually preview hairstyles** and see how they would look after a haircut using AI
-🔹 Implements an **AI-driven hairstyle recommendation engine** based on user preferences and style context
-🔹 Designed a **scalable FastAPI backend** integrated with a modern **Next.js frontend**
-🔹 Containerized services with **Docker** to ensure reliable deployment and scalability
-
+🔹 Enables users to **virtually preview hairstyles** and see how they would look after a haircut using AI </br>
+🔹 Implements an **AI-driven hairstyle recommendation engine** based on user preferences and style context </br>
+🔹 Designed a **scalable FastAPI backend** integrated with a modern **Next.js frontend** </br>
+🔹 Containerized services with **Docker** to ensure reliable deployment and scalability </br>
 **Tech Stack:** Next.js, FastAPI, Python, Docker, AI
 
 ---
 
 ### **[SnuggleFable — Agentic AI Video Generator](https://snugglefable.vercel.app/)**
 
-🎬 Transforms a **story theme into ready-to-publish YouTube Shorts**.  
+🔹Transforms a **story theme into ready-to-publish YouTube Shorts**.  
 🔹 Modular multi-agent pipeline: Story Agent, Image Prompt Agent, Sound Design Agent, Voice Module, Final Composer.  
 🔹 Asynchronous execution for TTS, image generation, and video composition.  
-**Tech:** Python, FastAPI, OpenAI Agents SDK, Docker, TTS, MoviePy, ffmpeg, Next.js
+**Tech Stack:** Python, FastAPI, OpenAI Agents SDK, Docker, TTS, MoviePy, ffmpeg, Next.js
 
 ---
 
 ### **[AI PhotoCraft – AI-Powered Photo Editing Companion](https://aiphotocraft.vercel.app/)**
 
 🔹 AI PhotoCraft isn’t just another photo editing tool — it’s your intelligent assistant for creating professional, creative, and personalized images with the power of artificial intelligence.<br>
-📸 Upload any photo — portrait, selfie, or professional shot.<br>
-🎨 Enhance details, retouch, or experiment with hairstyles, makeup, clothing, and accessories.<br>
-🌆 Instantly transform backgrounds — from realistic office scenes to fun creative requests like “add a pirate hat.” <br>
-⚡ Apply preset styles for a quick makeover — business, traditional, or casual vibes.<br>
-👀 See instant before-and-after previews, keeping you fully in control.<br>
+🔹 Upload any photo — portrait, selfie, or professional shot.<br>
+🔹 Enhance details, retouch, or experiment with hairstyles, makeup, clothing, and accessories.<br>
+🔹 Instantly transform backgrounds — from realistic office scenes to fun creative requests like “add a pirate hat.” <br>
+🔹 Apply preset styles for a quick makeover — business, traditional, or casual vibes.<br>
+🔹 See instant before-and-after previews, keeping you fully in control.<br>
+**Tech Stack:** Next.js, TailwindCss, ShadcnUI, Gemini
 
----
 
-### **[E-Commerce Frontend](https://my-shopping-website-assignment.vercel.app/)**
-
-A visually appealing, responsive eCommerce frontend with intuitive UI/UX.
-
----
-
-### **[Weather Web App](https://weatherinfo24.netlify.app/)**
-
-A collection of weather web app projects showcasing creativity and technical skills.
 
 ---
 
