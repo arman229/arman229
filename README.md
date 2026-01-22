@@ -78,7 +78,7 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 💼 **LinkedIn:** [Arman Ashraf](https://www.linkedin.com/in/arman-ashraf/)  
 💻 **GitHub:** [arman229](https://github.com/arman229)  
 🌐 **Portfolio:** [Visit Portfolio](https://armanashrafportfolio.vercel.app/)  
-📄 **Resume:** [Download PDF](https://raw.githubusercontent.com/arman229/arman229/master/armancv.pdf)
+📄 **Resume:** [Download PDF](https://raw.githubusercontent.com/arman229/arman229/master/Arman_Ashraf_Backend_AI_Engineer.pdf)
 
 ---
 
