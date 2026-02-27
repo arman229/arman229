@@ -45,6 +45,20 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ---
 
+---
+
+### **[AILiveInterviewer — Real-Time AI Interview Simulator](https://ailiveinterviewer.vercel.app/)**
+
+🔹 Conduct **live AI-powered interviews** tailored to a candidate’s role, experience, and skills.
+🔹 Adaptive scenarios include **technical, behavioral, and situational questions** to simulate real-world interviews.
+🔹 Generates **comprehensive performance reports** with scores, detailed feedback, and growth recommendations.
+🔹 **Instant PDF or Markdown report export** for easy reference and improvement tracking.
+🔹 Customizable AI behavior: **Practice mode** with hints or **Real mode** for authentic interview pressure.
+🔹 Advanced analytics evaluating **communication, problem-solving, technical knowledge, and confidence**.
+**Tech Stack:** Next.js, FastAPI, Python, Docker, Gemini, jsPDF
+
+---
+
 ### **[AI PhotoCraft – AI-Powered Photo Editing Companion](https://aiphotocraft.vercel.app/)**
 
 🔹 AI PhotoCraft isn’t just another photo editing tool — it’s your intelligent assistant for creating professional, creative, and personalized images with the power of artificial intelligence.<br>
