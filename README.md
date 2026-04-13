@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 
-I am a **Backend AI Engineer** with a solid background in mathematics and extensive experience building **scalable APIs, AI-powered agents, and retrieval-augmented systems**.
+I am a **Full-Stack AI Engineer** with a strong background in software development and extensive experience building **scalable APIs, AI-powered agents, and retrieval-augmented generation (RAG) systems**.
 
-I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based visual search**, and **asynchronous architectures** — delivering production-grade solutions that merge AI creativity with engineering precision.
+I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based visual search**, and **asynchronous architectures**, delivering production-grade solutions that combine AI innovation with strong engineering practices.
 
-💡 Passionate about crafting **autonomous platforms** that turn ideas into intelligent, real-world products.
+💡 Passionate about building **autonomous systems** that transform ideas into intelligent, real-world applications.
 
 ---
 
@@ -18,7 +18,7 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ### **[ArmanStore — AI-Powered E-Commerce](https://armanstore.vercel.app/)**
 
-🔹 Developed backend APIs (FastAPI) for product catalog, cart, checkout, and order tracking.  
+🔹 Developed Frontend and backend APIs (FastAPI) for product catalog, cart, checkout, and order tracking.  
 🔹 Built secure authentication & authorization workflows.  
 🔹 Integrated **AI Chatbot** with RAG + CLIP & Pinecone visual search.  
 🔹 CI/CD pipeline with Docker, deployed to **Vercel** & **Hugging Face Spaces**.  
@@ -38,9 +38,9 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ### **[SnuggleFable — Agentic AI Video Generator](https://snugglefable.vercel.app/)**
 
-🔹Transforms a **story theme into ready-to-publish YouTube Shorts**.  
-🔹 Modular multi-agent pipeline: Story Agent, Image Prompt Agent, Sound Design Agent, Voice Module, Final Composer.  
-🔹 Asynchronous execution for TTS, image generation, and video composition.  
+🔹Transforms a **story theme into ready-to-publish YouTube Shorts**.  </br>
+🔹 Modular multi-agent pipeline: Story Agent, Image Prompt Agent, Sound Design Agent, Voice Module, Final Composer. </br>
+🔹 Asynchronous execution for TTS, image generation, and video composition.  </br>
 **Tech Stack:** Python, FastAPI, OpenAI Agents SDK, Docker, TTS, MoviePy, ffmpeg, Next.js
 
 ---
@@ -49,12 +49,12 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ### **[AILiveInterviewer — Real-Time AI Interview Simulator](https://ailiveinterviewer.vercel.app/)**
 
-🔹 Conduct **live AI-powered interviews** tailored to a candidate’s role, experience, and skills.
-🔹 Adaptive scenarios include **technical, behavioral, and situational questions** to simulate real-world interviews.
-🔹 Generates **comprehensive performance reports** with scores, detailed feedback, and growth recommendations.
-🔹 **Instant PDF or Markdown report export** for easy reference and improvement tracking.
-🔹 Customizable AI behavior: **Practice mode** with hints or **Real mode** for authentic interview pressure.
-🔹 Advanced analytics evaluating **communication, problem-solving, technical knowledge, and confidence**.
+🔹 Conduct **live AI-powered interviews** tailored to a candidate’s role, experience, and skills.</br>
+🔹 Adaptive scenarios include **technical, behavioral, and situational questions** to simulate real-world interviews.</br>
+🔹 Generates **comprehensive performance reports** with scores, detailed feedback, and growth recommendations.</br>
+🔹 **Instant PDF or Markdown report export** for easy reference and improvement tracking.</br>
+🔹 Customizable AI behavior: **Practice mode** with hints or **Real mode** for authentic interview pressure.</br>
+🔹 Advanced analytics evaluating **communication, problem-solving, technical knowledge, and confidence**.</br>
 **Tech Stack:** Next.js, FastAPI, Python, Docker, Gemini, jsPDF
 
 ---
@@ -96,4 +96,4 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ---
 
-⚡ _Always open to opportunities in Backend API Development, AI Engineering, and Agentic AI Systems._
+⚡ *Always open to opportunities in Full-Stack Development, Backend API Engineering, and Agentic AI Systems.*
