@@ -1,10 +1,10 @@
-# 🚀 Arman Ashraf
+# Arman Ashraf
 
-### Full-Stack Developer | Backend AI Engineer | Agentic AI Specialist | Autonomous Systems Architect
+### Full-Stack Developer | Backend AI Engineer | Agentic AI Specialist | Autonomous Systems Architect| Python Developer
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a **Full-Stack AI Engineer** with a strong background in software development and extensive experience building **scalable APIs, AI-powered agents, and retrieval-augmented generation (RAG) systems**.
 
@@ -14,7 +14,7 @@ I specialize in **Python**, **FastAPI**, **OpenAI Agents SDK**, **CLIP-based vis
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### **[ArmanStore — AI-Powered E-Commerce](https://armanstore.vercel.app/)**
 
